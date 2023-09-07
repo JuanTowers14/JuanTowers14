@@ -1,4 +1,12 @@
-### Hi there 👋
+##  Hello there! I'm Juan Torres.👋
+I'm a programmer student in a University of Valley 📖. The programming languages ​​that I know the best are Python, C++ and Java but i'm always willing to learn.
+
+The adjectives that best describe me are:
+
+    - Enthusiastic
+    - Proactive
+    - Team worker
+   
 
 <!--
 **JuanTowers14/JuanTowers14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
