@@ -1,4 +1,4 @@
-##  Hello there! I'm Juan Torres.👋
+##  Hi there! I'm Juan Torres.👋
 I'm a programmer student in a University of Valley 📖. The programming languages ​​that I know the best are Python, C++ and Java but i'm always willing to learn.
 
 The adjectives that best describe me are:
